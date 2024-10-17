@@ -1,0 +1,96 @@
+[+] Containers:
+ |- [+] Container: /Game/Scenes/Garrett
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03CB9D1349C45DA9098C35A77E2EE453 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:099DC46841058A953E3316A9E2746F66 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:0E39DF5C481FF1811FD0139A84FAAAA1 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=950.000 Y=840.000 Z=0.013), Max=(X=1030.000 Y=920.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:30EB985F416B478CCC3930BDE711E3ED BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1451322506 Label:BallStandin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5057.500 Y=537.500 Z=120.000), Max=(X=5082.500 Y=562.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- Guid:42CDE21C4288BCC9E0406C8613254016 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1599869507 Label:BallStandin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5057.500 Y=987.500 Z=120.000), Max=(X=5082.500 Y=1012.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- Guid:4BDB1D5F4CFCC762D79D2E8FFCDB9B5C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:5C10024B4E02C815037CDFA9301CC689 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:6049DA2342E8AA0C49632ABB751F8AF3 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1622617509 Label:BallStandin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2917.500 Y=197.500 Z=120.000), Max=(X=2942.500 Y=222.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- Guid:9559DDD5406C947C9550ECBBC1F06E93 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1612373508 Label:BallStandin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3297.500 Y=227.500 Z=120.000), Max=(X=3322.500 Y=252.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- Guid:9C7C9AF446B7FE15DABA608F87DD82FD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:A400163246A954C8B2E0E6A8B050CFDA BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:A8742DFB498551EF500FA498377D54C5 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:B4BEC26C4C6EA7786443D5AFD00E0821 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:B9F3BC0A4D2A5DE8865162AD0D2E42C9 BaseClass:/Game/Assets/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.000 Y=818.000 Z=64.000), Max=(X=1442.000 Y=907.440 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F869F1A040920CC90C06418D0A4C4648 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1627832510 Label:BallStandin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=157.500 Y=877.500 Z=120.000), Max=(X=182.500 Y=902.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03CB9D1349C45DA9098C35A77E2EE453 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:099DC46841058A953E3316A9E2746F66 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0E39DF5C481FF1811FD0139A84FAAAA1 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=950.000 Y=840.000 Z=0.013), Max=(X=1030.000 Y=920.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:30EB985F416B478CCC3930BDE711E3ED BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1451322506 Label:BallStandin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5057.500 Y=537.500 Z=120.000), Max=(X=5082.500 Y=562.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:42CDE21C4288BCC9E0406C8613254016 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1599869507 Label:BallStandin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5057.500 Y=987.500 Z=120.000), Max=(X=5082.500 Y=1012.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:4BDB1D5F4CFCC762D79D2E8FFCDB9B5C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:5C10024B4E02C815037CDFA9301CC689 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:6049DA2342E8AA0C49632ABB751F8AF3 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1622617509 Label:BallStandin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2917.500 Y=197.500 Z=120.000), Max=(X=2942.500 Y=222.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:9559DDD5406C947C9550ECBBC1F06E93 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1612373508 Label:BallStandin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3297.500 Y=227.500 Z=120.000), Max=(X=3322.500 Y=252.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:9C7C9AF446B7FE15DABA608F87DD82FD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:A400163246A954C8B2E0E6A8B050CFDA BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:A8742DFB498551EF500FA498377D54C5 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:B4BEC26C4C6EA7786443D5AFD00E0821 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:B9F3BC0A4D2A5DE8865162AD0D2E42C9 BaseClass:/Game/Assets/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.000 Y=818.000 Z=64.000), Max=(X=1442.000 Y=907.440 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:F869F1A040920CC90C06418D0A4C4648 BaseClass:/Game/Assets/GarrettAssets/BallStandin.BallStandin_C NativeClass:/Script/Engine.Actor Name:BallStandin_C_UAID_B88584B5132B822602_1627832510 Label:BallStandin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=157.500 Y=877.500 Z=120.000), Max=(X=182.500 Y=902.500 Z=145.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Stand In Meshes FolderGuid:F18F7F034F7AEAE55345DB8E37631DFE
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Scenes/Garrett
+----------------------------------------------------------------------------------------------------------------
+Garrett - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Garrett Persistent Level
+ |- Always loaded Actor Count: 15 
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BallStandin_C_UAID_B88584B5132B822602_1451322506
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/A/AG/TYC4O2SHSWTFCKEUD1CW9T
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BallStandin_C_UAID_B88584B5132B822602_1599869507
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/4/YQ/ND86EOCYGDV8QA2I98JN44
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BallStandin_C_UAID_B88584B5132B822602_1612373508
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/C/UG/ZQYOR2KZ4TY3IMN0WC2C7Y
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BallStandin_C_UAID_B88584B5132B822602_1622617509
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/7/GI/D96ICDHNVEL3DQRAH1LHRR
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BallStandin_C_UAID_B88584B5132B822602_1627832510
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/C/LJ/KO2S836MMVTDR8OKFO602T
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.BP_Rifle_C_1
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/0/JV/OIBAGULNK5ZTGTPY09UI2T
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/C/QL/CANYWZ683HIUDZOXTB62UW
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/C/OT/NFMCT1W3Q4210369B3XR70
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/7/KW/KEGZ9UHG4XC91O2WPVC3KD
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/4/NO/IJ2TNHKV46RA9M7UK80DTB
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/B/9P/EA7NKMQO8KFYKUCFOEWETA
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/1/3A/ORFFOF7PL6Z5LD2OZUM063
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/A/CN/V47Q0C3XCNLYHCZ88V6U6D
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/D/MI/M6MXRTGZ65HTOZTQU99OYO
+ |- Actor Path: /Game/Scenes/Garrett.Garrett:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Scenes/Garrett/6/1Z/K1DRKWTZMLZA70HH11JGWB
+
+----------------------------------------------------------------------------------------------------------------
+Garrett - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
